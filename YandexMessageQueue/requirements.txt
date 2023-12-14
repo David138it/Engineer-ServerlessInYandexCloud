@@ -1,0 +1,6 @@
+boto3==1.33.10
+psycopg2==2.9.9
+Requests==2.31.0
+yandex==0.0.2
+yandexcloud==0.246.0
+ydb==2.13.3
